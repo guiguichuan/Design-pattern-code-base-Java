@@ -5,7 +5,5 @@ public class Client {
         ComputerFactory computerFactory = new ComputerFactory();
         IComputer dell = computerFactory.makeComputer("Dell");
         IComputer huawei = computerFactory.makeComputer("Huawei");
-        dell.make();
-        huawei.make();
     }
 }
