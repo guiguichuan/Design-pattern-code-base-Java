@@ -1,4 +1,4 @@
-package singleton.lazybones_unsafe;
+package singleton.lazybones.unsafe;
 
 /**
  * 懒汉式 线程不安全单例模式实现

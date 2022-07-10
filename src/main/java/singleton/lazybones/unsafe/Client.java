@@ -1,4 +1,4 @@
-package singleton.lazybones_unsafe;
+package singleton.lazybones.unsafe;
 
 public class Client {
     public static void main(String[] args) {
